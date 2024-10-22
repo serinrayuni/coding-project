@@ -1,4 +1,4 @@
 # Coding Project
 ## Language
-  C++
-  Java
+- C++
+- Java
